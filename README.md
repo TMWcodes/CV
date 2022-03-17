@@ -10,7 +10,7 @@ What excites me about technology is also what makes it scary - it is everywhere 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 |**[A Pinkmans Journey](https://github.com/TMWcodes/A-Pinkmans-Journey)**           | An rpg treasure hunt videogame. | JS, Phaser3, Jest, Node |
-| **[Acebook](https://github.com/TMWcodes/acebook-CHATS)** | A facebook replica app | Ruby, Rails, Rspec              |
+| **[Acebook](https://github.com/TMWcodes/acebook-CHATS)** | A facebook replica app | Ruby, Rails, Rspec, bootstrap              |
 
 ## Skills
 
