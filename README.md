@@ -1,20 +1,37 @@
-## Your Name
+## Tyrone Williams
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A sentence about who and what you are.
+My journey has taken me through university, the military and @makersacademy. 
+what excites me about technology is also what makes it scary - it is everywhere and it is challenging our place in society. In manufacturing, logistics and retail automation and robotics have made workers obsolete and AI is now beating us at our own game quite literally in the case of Alphazero and Alphastar.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Final project "A Pinkmans Journey"            | An rpg treasure hunt videogame. | Phaser3, JS, Jest, node |
+| Acebook | A facebook replica app | Ruby              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**British Army** (03/15 - 02/19)  
+GEO ANALYST 
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Utilizing geographical information systems (GIS) to create
+and edit maps.
+- Disseminating geo-data to different points
+of interest.
+- Field Engineering, navigation, and casualty training.
+
+
+**TMR** (05/18 - 01/19)  
+_COORDINATOR_
+
+- Posting online advertisements.
+- call handling
+- Meeting recruitment targets.
+- tracking employee attendance and work hours
+- Replying to applications and conducting interviews.
+
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -23,7 +40,9 @@ _Your job title_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Consider skills relevent to software development. Then consider your best skills. 
+
+Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
 
 -STAR
@@ -62,11 +81,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### UNIVERSITY OF GREENWICH (2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSC HONS IN BIOLOGICAL SCIENCES
 
 #### Any other qualifications
 
