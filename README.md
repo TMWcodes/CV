@@ -35,7 +35,7 @@ Running stand-ups, retros, sprints, creating MVPs and user stories
 - Languages and frameworks: Ruby, JavaScript, Rails, Phaser3
 - Databases: SQL and PostgreSQL.
 - TDD: RSpec, Jasmine.
-Applying outside-in Test Driven Development and Behaviour Driven Development
+Applying outside-in Test Driven Development and Behavior Driven Development
 
 #### UNIVERSITY OF GREENWICH (2011-2015)
 
@@ -46,9 +46,8 @@ Applying outside-in Test Driven Development and Behaviour Driven Development
 **myHermes** (09/21 - 12/21)  
 CSA
 
-- Policy complience 
+- Policy compliance.
 - Logistics loss investigation 
-- Customer relations
 
 **British Army** (03/15 - 02/19)  
 GEO ANALYST 
@@ -64,12 +63,11 @@ of interest.
 _COORDINATOR_
 
 - Posting online advertisements.
-- call handling
-- Meeting recruitment targets.
-- tracking employee attendance and work hours
-- Replying to applications and conducting interviews.
+- Hitting recruitment targets.
+- Tracking employee metrics.
+- Responding to applications and conducting interviews.
 
 
 ## Hobbies
 
-Any cool stuff
+Video games, Gardening.
