@@ -1,9 +1,9 @@
 ## Tyrone Williams
+An ambitious highly motivated STEM enthusiast with a solid foundation in software development and programming principles.
 
+My journey thus far has taken me through university (biosciences), the military (royal engineers) and makers academy boot camp (programming). Until recently i was quite intimated computer science but i knew i needed to conquered my fear and gain another skill to cover that technical weakness.
 
-My journey has taken me through university and the military but up until recently i was quite intimated by programming, then i joined @makersacademy, conquered my fear and learned another skill to cover that technical weakness.
-
-What excites me about technology is also what makes it scary - it is everywhere and it is challenging our place in society. In manufacturing, logistics and retail automation and robotics have made workers obsolete and now AI is encroaching into the creative, academic and managerial roles, beating us at our own game (quite literally in the case of Alphazero and Alphastar).
+What excites me about technology is also what makes it scary - it is everywhere and it is challenging our place in society. In manufacturing, logistics and retail automation is making workers obsolete and now AI is encroaching into the creative, academic and managerial roles, beating us at our own games (quite literally in the case of Alphazero and Alphastar).
 
 ## Projects
 
@@ -11,18 +11,16 @@ What excites me about technology is also what makes it scary - it is everywhere 
 | ---------------------------- | ----------------- | ----------------- |
 |**[A Pinkmans Journey](https://github.com/TMWcodes/A-Pinkmans-Journey)**           | An rpg treasure hunt videogame. | JS, Phaser3, Jest, Node |
 | **[Acebook](https://github.com/TMWcodes/acebook-CHATS)** | A facebook replica app | Ruby, Rails, Rspec, bootstrap              |
-
+|**[makersBNB](https://github.com/TMWcodes/Makersbnb)**| A  clone of Airbnb |  Ruby, Sinatra, PSQL, HTML, CSS |
 ## Skills
-
-
-#### Organised
-
-
 #### Strategic thinker
+Planning and diagramming have been key parts of my working process (diagrams.net, ClickUp), which I was able to carry over to the Makers course, during the course, to my benefit, i learned of even more planning tools and methodologies such as miro, trello and the agile workflow.
 
+#### Problem solver
+Problem solving is at the heart of what i do. My background in bioscience helped to apply the scientific method to problems and refine my approach to finding solutions. Examples of this include proficiently debugging errors in mine and my partners code, creating solutions to help my team to get unstuck in our group project, enabling us to move forward at speed and produce a functional product.
 #### Fast learner
 I understand which steps I need to take to complete that task in an efficient, independent, and timely manner.
-Without it being taught on the course i learned Phaser3, Node.js, Express and MongoDb and used it to build a fully-functioning RPG game in 10 days.
+Without the framework or game design being taught on the course i learned Phaser3 through online resources such as codecademy and udemy and even created a javascript mockup in our MVP phase.
 
 ## Education
 
@@ -41,7 +39,7 @@ Applying outside-in Test Driven Development and Behavior Driven Development
 
 - BSC HONS IN BIOLOGICAL SCIENCES
 
-## Work Experience
+<!-- ## Work Experience
 
 **myHermes** (09/21 - 12/21)  
 CSA
@@ -70,4 +68,4 @@ _COORDINATOR_
 
 ## Hobbies
 
-Video games, Gardening.
+Video games, Gardening. -->
