@@ -3,8 +3,11 @@
 <a href="https://www.codewars.com/users/Coding_rush">
         <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white" />
     </a>
-    <a href="www.linkedin.com/in/tyrone-williams-ba4a0a219">
+    <a href="www.linkedin.com/in/www.linkedin.com/in/tyrone-m-williams">
         <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      <a href="https://github.com/TMWcodes/PDFCV">
+        <img alt="CV" title="My PDF CV" src="https://img.shields.io/badge/CV_PrintVersion-ffd700?style=for-the-badge&logoColor=white" />
         </a>
 
 [Projects](#projects) | [Skills](#skills) | [Education](#Education)
