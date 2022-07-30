@@ -13,7 +13,7 @@
         <img alt="CV" title="My PDF CV" src="https://img.shields.io/badge/CV_Repo-2d6a4f?style=for-the-badge&logoColor=white" />
         </a>
 
-[Projects](#projects) | [Skills](#skills) | [Education](#Education)
+[Projects](#projects) | [Skills](#skills) | [Education](#Education) | [Experience](#work-experience)
 
 ## Introduction
 
@@ -72,8 +72,15 @@ Without the framework or game design being taught on the course i learned Phaser
 
 - BSC HONS IN BIOLOGICAL SCIENCES
 
-<!-- ## Work Experience
+## Work Experience
 
+For more information please view _Print Version_:
+
+**[Online](https://tmwcodes.github.io/PDFCV/)** or via **[ Repository](https://github.com/TMWcodes/PDFCV)**
+
+![PDFCVSC](./img/PDFCVSC.jpg)
+
+<!--
 **myHermes** (09/21 - 12/21)
 CSA
 
@@ -97,8 +104,3 @@ _COORDINATOR_
 - Hitting recruitment targets.
 - Tracking employee metrics.
 - Responding to applications and conducting interviews.
-
-
-## Hobbies
-
-Video games, Gardening. -->
