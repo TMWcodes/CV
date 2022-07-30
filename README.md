@@ -6,8 +6,11 @@
     <a href="www.linkedin.com/in/www.linkedin.com/in/tyrone-m-williams">
         <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
-      <a href="https://github.com/TMWcodes/PDFCV">
-        <img alt="CV" title="My PDF CV" src="https://img.shields.io/badge/CV_PrintVersion-ffd700?style=for-the-badge&logoColor=white" />
+      <a href="https://tmwcodes.github.io/PDFCV/">
+        <img alt="CV" title="My PDF CV" src="https://img.shields.io/badge/CV_PrintVersion_online-ffd700?style=for-the-badge&logoColor=white" />
+        </a>
+        <a href="https://github.com/TMWcodes/PDFCV">
+        <img alt="CV" title="My PDF CV" src="https://img.shields.io/badge/CV_Repo-2d6a4f?style=for-the-badge&logoColor=white" />
         </a>
 
 [Projects](#projects) | [Skills](#skills) | [Education](#Education)
