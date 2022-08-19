@@ -19,7 +19,7 @@
 
 An ambitious highly motivated STEM enthusiast with a solid foundation in software development and programming principles.
 
-My journey thus far has taken me through university (biosciences), the military (royal engineers) and makers academy boot camp (programming). Until recently i was quite intimated computer science but i knew i needed to conquered my fear and gain another skill to cover that technical weakness.
+My journey thus far has taken me through university (biosciences), the military (royal engineers) and makers academy boot camp (programming). Until recently i was quite intimidated computer science but i knew i needed to conquered my fear and gain another skill to cover that technical weakness.
 
 What excites me about technology is also what makes it scary - it is everywhere and it is challenging our place in society. In manufacturing, logistics and retail automation is making workers obsolete and now AI is encroaching into the creative, academic and managerial roles, beating us at our own games (quite literally in the case of Alphazero and Alphastar).
 
