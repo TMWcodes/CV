@@ -78,7 +78,7 @@ For more information please view _Print Version_:
 
 **[Online](https://tmwcodes.github.io/PDFCV/)** or via **[ Repository](https://github.com/TMWcodes/PDFCV)**
 
-![PDFCVSC](./img/PDFCVSC.jpg)
+![PDFCVSC](./img/CVDocument.jpg)
 
 <!--
 **myHermes** (09/21 - 12/21)
